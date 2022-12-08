@@ -19,7 +19,36 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d07e2d72-688c-40ba-93e3-2d9d4045b1c8" name="Default Changelist" comment="" />
+    <list default="true" id="d07e2d72-688c-40ba-93e3-2d9d4045b1c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Controller/ApplicationStartupController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Controller/ApplicationStartupController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Controller/IController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Controller/IController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Model.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Model/IModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Model/IModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Repository.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Repository/ModelsFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Repository/ModelsFactory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Repository/ModelsStore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Repository/ModelsStore.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Repository/UseRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Repository/UseRepository.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Service.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Service/IService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Eight/Core/Service/IService.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Model.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Model/LogModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Model/LogModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Service.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Service/ApplicationStartUpService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Service/ApplicationStartUpService.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670452460711</updated>
-      <workItem from="1670452468231" duration="29115000" />
+      <workItem from="1670452468231" duration="29717000" />
     </task>
     <servers />
   </component>
